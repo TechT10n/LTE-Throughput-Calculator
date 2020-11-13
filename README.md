@@ -10,3 +10,5 @@ I highly encourage you to read the source website for a good tutorial on how thi
 http://anisimoff.org/eng/lte_throughput.html
 
 It requires PHP in it's current revision, to generate the HTML dropdowns. Though it would be fairly trivial to re-write that part in javascript or some other language.
+
+This is a minor edit
